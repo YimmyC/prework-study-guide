@@ -2,7 +2,7 @@
 
 ## Description
 
-A study guice created to help students.
+A study guide created to help students.
 
 ## Installation
 
